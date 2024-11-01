@@ -14,7 +14,7 @@ const Success = () => {
                 <div>
                     <div className='flex items-center text-xl'>
                         <AiOutlineCheckCircle className='text-green-500' size={35} />
-                       <span className='pl-4'>Payment Successful</span>
+                       <span className='pl-4'>Payment Successful.</span>
                     </div>
                     <p className='text-sm'>
                             Thank you! We've received your payment.
